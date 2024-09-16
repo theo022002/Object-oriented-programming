@@ -57,7 +57,7 @@ The main function should:
   
 The parameters K, M, N, and L are passed from the command line.
   
-## 3. Creatute Simulation:  
+## 3. Creature Simulation:  
 The scenario involves a simulation of a community of creatures, which can either be good or bad. 
 Each creature lives in a specific position within the community and exhibits certain behaviors.  
   
